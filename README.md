@@ -1,7 +1,5 @@
 # Python
 
-
-
 ### What is Python? ###
 * Python is a high level programming language.
 * Developed by Guido van Rossum during 1985- 1990.
@@ -55,5 +53,8 @@ Invalid variable names :
   * Sachin Tendulkar - Blank spaces are not allowed
 ```  
 ### Data Types
+```python
+print("Hello")
+```
 
 
