@@ -60,7 +60,7 @@ Example for Integers :
 ```
 
 ### Floating point Number
-* float or Floating point Number whih can be positive and negative numbers with decimals.
+* Float or Floating point Number whih can be positive and negative numbers with decimals.
 * Also it can be represent using **e** or **E**, which indicate the power of 10.
 ```
 Example for Floating point number :
@@ -82,3 +82,19 @@ Example for Complex Numbers :
 -20j
 10j
 ```
+
+## Text Type
+#### String
+* String is a set of characters which is enclosed in a single quote or double quote.
+* Multi line strings are represented using tripple single quote.
+```text
+Example for String :
+
+'Hello world'
+
+"My name is Python"
+
+''' 
+Name : Python
+Type : Programming Language
+'''
