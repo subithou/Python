@@ -1,4 +1,4 @@
-[Home](https://github.com/subithou/Python)/Variables and Data types
+[Home](https://github.com/subithou/Python) / Variables and Data types
 # Varibales and Data types
 
 ### What is a variable?
