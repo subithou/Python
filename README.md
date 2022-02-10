@@ -25,6 +25,7 @@ _For downloading the setup file_ : https://www.python.org/downloads/
 
 
 ## Contents ##
+1. [Variables, Data Types](https://github.com/subithou/Python/blob/main/variables_dataType.md)
 
 
 
