@@ -1,4 +1,4 @@
-# Varibales, Data types
+# Varibales and Data types
 ### What is a variable?
 * The variable is a named memory location which can store the data.
 * Variable names are case sensitive ( num and NUM are considered as different variables ).   
@@ -10,7 +10,7 @@
   * Keywords are not allowed.
   * Blank spaces are not allowed.
     
-```
+``` text
 Example
 
 Valid variable names :  
@@ -27,6 +27,3 @@ Invalid variable names :
   * Sachin Tendulkar - Blank spaces are not allowed
 ```  
 ### Data Types
-```python
-print("Hello")
-```
