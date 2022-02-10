@@ -1,5 +1,5 @@
-[Home](https://github.com/subithou/Python) / Variables and Data types
-# Varibales and Data types
+[Home](https://github.com/subithou/Python) / Variables and Data Types
+# Varibales and Data Types
 
 ### What is a variable?
 * The variable is a named memory location which can store the data.
