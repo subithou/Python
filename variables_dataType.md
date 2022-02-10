@@ -27,7 +27,42 @@ Invalid variable names :
   * vari%#@!able - The special characters are not allowed
   * if - Keywords are not allowed
   * Sachin Tendulkar - Blank spaces are not allowed
-```  
+```
+
+
+```python
+Python code
+-----------
+
+a = 10 # 'a' is a variable which stores the integer number 
+variable1 = 26.59 #'variable1' is a variable which stores the floating point number
+name = "Python" #'name' is a variable which stores the string.
+```
+### Good to know
+* In python we have no need to specify the data type of the variable at the time of variable creation.
+* The variable creation is also known as _variable declaration_. In Python no need of variable declaration .  
+* Assign the values in to variable is known as _variable initialisation_.
+* In Python only the variable initialisation is needed, The Python automatically understand which type of data we stored in that variable.
+* Assignment operator ( = ) is used to assign the values or data in to variable.
+* print() function is used to display the content.
+
+```python
+Python code
+-----------
+a = 10 #The variable 'a' which stores integer number 10.
+b = -35.6 #The varibale 'b' which stores floating point number -35.6
+name = "Python" #The variable 'name' which stores string.
+
+print(a) #Display the content in 'a'.
+print(b) #Display the content in 'b'.
+print(name) #Display the content in 'name'.
+
+Output
+------
+10
+-35.6
+Python
+```
 ### Data Types
 * The Data Type means it's the type of data we use.  
 * In mathematics we can see decimal numbers, natural numbers, complex number ...etc, like this every programming languages have different data types.  
@@ -49,14 +84,23 @@ In Numeric Data Types contains
 
 ### Integer 
 * Int or Integer which can be a whole numbers, positive and negative numbers.
-* It doesn't contain decimals.
-```
-Example for Integers :
+* It doesn't contain decimals.  
+Example
+```python
+Python code
 
-10
-20
--56
-5968745568
+a = 10
+b = -20
+c = 56987
+
+print(type(a))
+print(type(b))
+print(type(c))
+
+Output 
+<class 'int'>
+<class 'int'>
+<class 'int'>
 ```
 
 ### Floating point Number
@@ -84,7 +128,7 @@ Example for Complex Numbers :
 ```
 
 ## Text Type
-#### String
+### String
 * String is a set of characters which is enclosed in a single quote or double quote.
 * Multi line strings are represented using tripple single quote.
 ```text
