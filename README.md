@@ -1,4 +1,4 @@
-# Python 3 #
+# Python 3 
 ## What is python ##
 * Python is a high level programming language.
 * Developed by Guido van Rossum during 1985- 1990.
@@ -7,7 +7,7 @@
 * Simple and easy to understand.
 
 ## Versions! ##
-* The latest version is **Python 3**.
+* The latest version is **Python 3** ( Commonly using ).
 * Also the previous verison is **Python 2**. 
 
 ## Where it can be use ? ##
