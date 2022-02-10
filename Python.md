@@ -54,7 +54,6 @@ Invalid variable names :
   * if - Keywords are not allowed
   * Sachin Tendulkar - Blank spaces are not allowed
 ```  
-### Data and Data  
-7name =10
+### Data Types
 
 
