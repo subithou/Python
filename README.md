@@ -33,6 +33,6 @@
 12. [Functions](https://github.com/subithou/Python/blob/main/Loops.pdf)
 13. [Module](https://github.com/subithou/Python/blob/main/Modules.pdf)
 14. [Python-Mysql](https://github.com/subithou/Python/blob/main/Python-Mysql%20Connection.pdf)
-15. [Python-Mysql Project](https://github.com/subithou/Python/blob/main/Python-Mysql%20Connection.pdf)
+15. [Python-Mysql Project](https://github.com/subithou/Python/blob/main/project.pdf)
 
 
