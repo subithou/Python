@@ -24,7 +24,7 @@
 3. [Python Data Types](https://github.com/subithou/Python/blob/main/Code/Data_Types.ipynb)
 4. [Python Variables](https://github.com/subithou/Python/blob/main/Code/Variables.ipynb)
 5. [Python Operators](https://github.com/subithou/Python/blob/main/Code/Operators.ipynb)
-6. [Python String](https://github.com/subithou/Python/blob/main/Code/String.ipynb)
+6. [Python String](https://github.com/subithou/Python/blob/main/String.ipynb)
 7. [Python List](https://github.com/subithou/Python/blob/main/Code/List.ipynb)
 8. [Python Set](https://github.com/subithou/Python/blob/main/Code/Set.ipynb)
 9. [Python Tuple](https://github.com/subithou/Python/blob/main/Code/Tuple.ipynb)
