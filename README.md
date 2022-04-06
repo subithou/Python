@@ -30,7 +30,7 @@
 9. [Python Tuple](https://github.com/subithou/Python/blob/main/Tuple.pdf)
 10. [Conditional Statements(if..else..etc)](https://github.com/subithou/Python/blob/main/Conditional%20statements..pdf)
 11. [Python Loops](https://github.com/subithou/Python/blob/main/Loops.pdf)
-12. [Python Functions](https://github.com/subithou/Python/blob/main/Loops.pdf)
+12. [Python Functions](https://github.com/subithou/Python/blob/main/Functions.pdf)
 13. [Python Module](https://github.com/subithou/Python/blob/main/Modules.pdf)
 14. [Python-Mysql](https://github.com/subithou/Python/blob/main/Python-Mysql%20Connection.pdf)
 15. [Python-Mysql Project](https://github.com/subithou/Python/blob/main/project.pdf)
