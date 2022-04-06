@@ -31,7 +31,7 @@
 10. [Conditional Statements(if..else..etc)](https://github.com/subithou/Python/blob/main/Code/Conditional_statements.ipynb)
 11. [Python Loops](https://github.com/subithou/Python/blob/main/Code/Loops%20(1).ipynb)
 12. [Python Functions](https://github.com/subithou/Python/blob/main/Code/functions.ipynb)
-13. [Python Module](https://github.com/subithou/Python/blob/main/Modules.pdf)
+13. [Python Module](https://github.com/subithou/Python/blob/main/Code/Modules.ipynb)
 14. [Python-Mysql](https://github.com/subithou/Python/blob/main/Code/Python_Mysql.ipynb)
 15. [Python-Mysql Project](https://github.com/subithou/Python/blob/main/Code/mini_project.ipynb)
 
